@@ -1,0 +1,19 @@
+xcopy "C:\Windows\*.bmp" "Z:\ОССТ_2024-2025\1-МД-4\Косарев Иван\WinGrafika\" /S /I
+xcopy "C:\Windows\*.png" "Z:\ОССТ_2024-2025\1-МД-4\Косарев Иван\WinGrafika\" /S /I
+ck_scale-150.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-black_scale-200.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-black_scale-400.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-white.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-white_scale-1ck_scale-150.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-black_scale-200.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-black_scale-400.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-white.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-white_scale-1ck_scale-150.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-black_scale-200.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-black_scale-400.png
+C:\Windows\ImmersiveControlPanel\images\logo.contrast-white.png
+xcopy "C:\Windows\*.bmp" "Z:\ОССТ_2024-2025\1-МД-4\Косарев Иван\WinGrafika\" /S /I
+xcopy "C:\Windows\*.img" "Z:\ОССТ_2024-2025\1-МД-4\Косарев Иван\WinGrafika\" /S /I
+xcopy "C:\Windows\*.jpeg" "Z:\ОССТ_2024-2025\1-МД-4\Косарев Иван\WinGrafika\" /S /I
+xcopy "C:\Windows\*.gif" "Z:\ОССТ_2024-2025\1-МД-4\Косарев Иван\WinGrafika\" /S /I
+doskey /history
